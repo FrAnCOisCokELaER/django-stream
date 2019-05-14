@@ -1,0 +1,4 @@
+
+    - DJANGO_SETTINGS_MODULE=template.settings.production
+    - FQDN_HOST=localhost
+

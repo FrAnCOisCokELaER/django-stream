@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-cors-headers
+drf_yasg
+gunicorn
+python-logstash
+djangorestframework-jwt
+pymongo
